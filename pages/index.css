@@ -44,6 +44,7 @@
     max-width: 683px;
     font-size: 20px;
     line-height: 30px;
+  }
 
     .header__wrapper-texts {
       display: flex;
@@ -53,7 +54,6 @@
       margin: 183px 0 28px 80px;
       font-family: "Noto Serif", "Times New Roman", serif;
     }
-  }
   
   .header__image {
     z-index: 1;
