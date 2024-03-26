@@ -16,12 +16,12 @@
     background-position: center;
     background-size: cover;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     height: 100vh;
     min-height: 720px;
     max-height: 800px;
     position: relative;
-    box-sizing: border-box;
   }
   
   .header__title {
@@ -76,10 +76,6 @@
     font-weight: 500;
     color: #838383;
   }
-
-.content {
-    color: #000000;
-}
 
 .recipes {
     background-color: #0A2750;
